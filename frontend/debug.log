@@ -6,3 +6,5 @@
 [1024/113832.175:ERROR:crash_report_database_win.cc(469)] failed to stat report
 [1024/123845.278:ERROR:settings.cc(325)] Settings version is not 1
 [1024/123845.285:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1024/175417.929:ERROR:settings.cc(325)] Settings version is not 1
+[1024/175417.937:ERROR:crash_report_database_win.cc(469)] failed to stat report

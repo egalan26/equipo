@@ -1,13 +1,5 @@
 import React from 'react';
-import Link from '../Link/Link'
 import FichaTecnica from '../FichaTecnica/FichaTecnica'
-import {
-  BrowserRouter as Router,
-  Route,
-  Link as ReactLink,
-  useParams,
-} from 'react-router-dom'
-import PlayerCard from '../PlayerCard/PlayerCard'
 
 
 

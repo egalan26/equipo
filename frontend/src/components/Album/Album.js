@@ -31,7 +31,7 @@ export default class Album extends React.Component {
   render(){
     return (
       <div>
-        
+
         <div className="Album">
 
           {this.state.players.map(item =>

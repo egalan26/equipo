@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App/App';
-import Album from './components/Album/Album'
 import * as serviceWorker from './serviceWorker';
 
 
