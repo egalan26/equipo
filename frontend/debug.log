@@ -2,3 +2,7 @@
 [1024/094223.524:ERROR:crash_report_database_win.cc(469)] failed to stat report
 [1024/100550.899:ERROR:settings.cc(325)] Settings version is not 1
 [1024/100550.909:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1024/113832.169:ERROR:settings.cc(325)] Settings version is not 1
+[1024/113832.175:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1024/123845.278:ERROR:settings.cc(325)] Settings version is not 1
+[1024/123845.285:ERROR:crash_report_database_win.cc(469)] failed to stat report
